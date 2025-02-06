@@ -79,7 +79,7 @@ Before running the project, ensure you have the following installed:
      ```
      MONGO_URI=mongodb+srv://<username>:<password>@cluster0.mongodb.net/myapp?retryWrites=true&w=majority
      JWT_SECRET=your_jwt_secret_key
-     PORT=5000
+     PORT=4000
      ```
 
 ---
@@ -96,7 +96,7 @@ Before running the project, ensure you have the following installed:
    npm run dev
    ```
 
-3. The server will be running at `http://localhost:5000`.
+3. The server will be running at `http://localhost:4000`.
 
 ---
 
