@@ -183,7 +183,7 @@ For any questions or feedback, please reach out to:
 
 - **Abdul Moiz**  
 - Email: abdulmoiz8895@gmail.com  
-- GitHub: [AbdulMoiz2493](https://github.com/your-username)  
+- GitHub: [AbdulMoiz2493](https://github.com/AbdulMoiz2493)  
 
 ---
 
