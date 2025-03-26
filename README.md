@@ -64,8 +64,8 @@ Before running the project, ensure you have the following installed:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/AbdulMoiz2493/Production_Ready_Backend_Code.git
+   cd Production_Ready_Backend_Code
    ```
 
 2. Install dependencies:
